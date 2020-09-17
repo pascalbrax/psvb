@@ -1,6 +1,8 @@
 # psvb
 Pascal Simple youtube-dl video browser
 
+*Inspired by Jan Lunge's work at https://github.com/wlard/youtube-dl-viewer*
+
 How to use:
 ===========
 
