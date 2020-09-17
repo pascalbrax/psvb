@@ -1,2 +1,16 @@
 # psvb
 Pascal Simple youtube-dl video browser
+
+How to use:
+===========
+
+1) Download videos with ``youtube-dl --write-info-json --write-thumbnail`` followed by your favourite parameters.
+
+2) Download ``index.php`` and save it in the same folder with your videos.
+
+3) Upload everything to your web server.
+
+Screenshot:
+===========
+
+![screenshot](https://github.com/pascalbrax/psvb/blob/master/screenshot.png)
